@@ -1,1 +1,10 @@
+img {
+    width: 50%;
+}
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background: rgb(148, 225, 255);
+    color: rgb(139, 0, 0);
 
+}
