@@ -7,4 +7,11 @@ body {
     background: rgb(148, 225, 255);
     color: rgb(139, 0, 0);
 
+@font-face {
+    font-family: "Myhand";
+    src: url("Myhand-Regular.otf") format("opentype");
+}
+    .my-font {
+        font-family: "Myhand", serif;
+    }
 }
