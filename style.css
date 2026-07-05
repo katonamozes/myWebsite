@@ -9,7 +9,7 @@ body {
 }
 @font-face {
     font-family: "Myhand";
-    src: url("C:/Users/Mózes/Downloads/myWebsite-main/Myhand.otf") format("opentype");
+    src: url("Myhand.otf") format("opentype");
 }
     .Myhand {
         font-family: "Myhand";
