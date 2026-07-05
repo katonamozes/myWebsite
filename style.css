@@ -6,7 +6,29 @@ body {
     font-family: 'Arial';
     background: rgb(148, 225, 255);
     color: rgb(139, 0, 0);
+    font-size: 30px;
 }
+h1 {
+    font-size: 2em;
+    }
+h2 {
+    font-size: 1.88em;
+    }
+h3 {
+    font-size: 1.66em;
+    }
+h4 {
+    font-size: 1.50em;
+    }
+h5 {
+    font-size: 1.33em;
+    }
+h6 {
+    font-size: 1.16em;
+    }
+p {
+    font-size: 1em;
+    }
 @font-face {
     font-family: "Myhand";
     src: url("Myhand.otf") format("opentype");
